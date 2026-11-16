@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 10CD-C9D0
+
+ Directory of C:\Users\user\Desktop\Myproject
+
+16-11-2026  19:54    <DIR>          .
+16-11-2026  19:54    <DIR>          ..
+16-11-2026  19:54                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,244,145,152 bytes free
